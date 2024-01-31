@@ -2,12 +2,13 @@
 draft = false
 image = ""
 date = "2016-11-05T19:56:17+05:30"
-title = "Name of the work 6"
+title = "Method Design Toolkit"
 showonlyimage = false
 weight = 6
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+A toolkit for respective design tools and methods available in a questioning format in relevance to the process of a project is advisable.
+A study on a food processing company, mapping its system, products, and services it offers (learning to design a system)
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
