@@ -1,13 +1,13 @@
 +++
-image = "img/portfolio/label-clothes.jpg"
+image = "img/portfolio/levicvr.png"
 showonlyimage = false
 date = "2016-11-05T19:57:40+05:30"
-title = "Name of the work 7"
+title = "ReBrand Identity of Levi"
 draft = false
 weight = 7
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+A Rebrand of the denim clothing company, Levi's to LEVI that adopts the style of Boro Clothing, waste management, and sustainable initiative to reuse worn out denimwear and proposing a trend. Understanding Brand design and Strategy, what gives its unique spin, and factors to consider when valuing the brand.
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
