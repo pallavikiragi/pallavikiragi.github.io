@@ -7,7 +7,7 @@ title = "Gathering Spaces in Chickpete"
 weight = 5
 +++
 
-Conducted on-site explorations and field visits to decipher human and non-human actors in spaces as a sense of gathering. Here I was able to distinguish landmarks that were quintessential for center points of rendezvous and references, created an annotated overlay map to display points of my conduct and investigations.
+Conducted on-site explorations and field visits to decipher human and non-human actors in spaces as a sense of gathering. Distinguished landmarks that were quintessential for center points of rendezvous and references
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
