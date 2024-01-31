@@ -1,13 +1,13 @@
 +++
 draft = false
-image = "img/portfolio/trifold.jpg"
+image = "img/portfolio/pcover.jpg"
 showonlyimage = true
 date = "2016-11-05T20:22:08+05:30"
-title = "Item with image"
+title = "Product Development"
 weight = 10
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Making unexpected out of the material and iterating possible functions and features. How to make the development procedure non- linear and transparent.
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
