@@ -1,13 +1,13 @@
 +++
-image = "img/portfolio/gravity-paper.jpg"
+image = "img/portfolio/xrr.png"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
-title = "Name of the work 3"
+title = "Prototyping in XR"
 draft = false
 weight = 2
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+A sneak peek of the Auto Car exhibition show with a projection of the predicted space design with cars, banners, and consultants layered out on an Invitation card
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
