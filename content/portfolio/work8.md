@@ -1,13 +1,13 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/portfolio/ipad-air-2.jpg"
+image = "img/portfolio/prox-collage.jpg"
 date = "2016-11-05T19:59:22+05:30"
-title = "Name of the work 8"
+title = "Proxemics in Exhibition Space"
 weight = 8
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+Proxemics as a method for space allocation and data collection exploring in an Exhibition and Convention centers. Plausible for pandemics, like Covid-19, how to organize a crowd-oriented space with social distancing using proximity as a factor.
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
