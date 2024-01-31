@@ -1,13 +1,13 @@
 +++
 draft = false
-image = "img/portfolio/paper-presentation.jpg"
+image = "img/portfolio/holo collage.png"
 showonlyimage = true
 date = "2016-11-05T20:23:59+05:30"
-title = "Item with image"
+title = "Holographic Prototyping"
 weight = 11
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Explore holograms in Museum experiences which include a full-body immersion in the hologram inside an exclusive car. Experiential and Informative. How can holograms be more interactive than just mere 3d displays
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
