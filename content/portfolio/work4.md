@@ -3,14 +3,19 @@ draft = false
 image = ""
 showonlyimage = false
 date = "2016-11-05T19:50:47+05:30"
-title = "Internship works"
+title = "Work Experience"
 weight = 4
 +++
 
-These internships provided me with valuable hands-on training, allowing me to apply the theoretical knowledge I acquired during my academic studies. By working alongside professionals in the industry, I gained insight into real-world scenarios and developed a deeper understanding of the challenges and opportunities within my field. These internships helped me build a strong foundation for my future career and provided me with the necessary skills and networking opportunities to succeed in the professional world.
+These companies/studios provided me with valuable hands-on training, allowing me to apply the theoretical knowledge I acquired during my academic studies. By working alongside professionals in the industry, I gained insight into real-world scenarios and developed a deeper understanding of the challenges and opportunities within my field. These internships helped me build a strong foundation for my future career and provided me with the necessary skills and networking opportunities to succeed in the professional world.
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+## Indian Music Experience Museum
+<small>June 2023 - February 2024</small>
+
+During my experience at the museum, I actively engaged in the critical role of evaluating and refining exhibit spaces and interactive elements. I delved into the intricacies of designing diverse visitor experiences, considering factors such as mediums, spatial arrangements, and contextual relevance. 
+
+<h3>Objectives</h3>
 
 A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 
