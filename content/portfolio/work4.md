@@ -11,11 +11,11 @@ These companies/studios provided me with valuable hands-on training, allowing me
 <!--more-->
 
 ## Indian Music Experience Museum
-<small>June 2023 - February 2024</small>
+June 2023 ^- February 2024
 
 During my experience at the museum, I actively engaged in the critical role of evaluating and refining exhibit spaces and interactive elements. I delved into the intricacies of designing diverse visitor experiences, considering factors such as mediums, spatial arrangements, and contextual relevance. 
 
-<h3>Objectives</h3>
+### Objectives
 
 A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 
