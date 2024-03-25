@@ -2,7 +2,7 @@
 date = "2016-11-05T19:41:01+05:30"
 title = "New Media and Generative Design"
 draft = false
-image = "img/portfolio/pallavikiragi_finalimage_01_copy.png"
+image = "img/portfolio/newmedia.jpg"
 showonlyimage = false
 weight = 1
 +++
