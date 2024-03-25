@@ -18,6 +18,13 @@ It served as a context for airport operations and management, involving passenge
 
 [Documentation](https://www.dropbox.com/s/0rgu3up0hwz3vb8/New%20media%20design%20airport%20documentation.pdf?dl=0)
 
+Workflows 
+
+| ![Image 1](covidcover.jpg) | ![Image 2](gravity-paper.jpg) | ![Image 3](holo collage.png) |
+| --- | --- | --- |
+| ![Image 4](levicvr.png) | ![Image 5](chick.png) | ![Image 6](ipad-air-2.jpg) |
+
+
 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 2. Aliquam tincidunt mauris eu risus.
 
