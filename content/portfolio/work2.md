@@ -10,7 +10,9 @@ weight = 1
 These projects delve into generative concepts that utilize computational processes to generate a range of design options, while also considering context. This methodology is employed to evaluate and explore variations and experimentations within the framework of new media design, which encompasses a universal interconnected network of audio, video, and electronic text communications. 
 
 <!--more-->
-### Cyberculture in Airports
+#### Cyberculture in Airports
+
+![This is me][1]
 
 This thesis introduced me to tools and technologies in the realm of new media and computational development, the influence of each subject New media, cyberculture, and airport stakeholders. 
 It served as a context for airport operations and management, involving passengers and employees, thereby forming a paradigm of cyberculture where each aspect facilitates digital networks and social shaping technologies. Some of the methods I followed were predominantly site visits and case studies, interviewing employees and passengers on their perspectives of travel and management. I also watched a documentary on one of the busiest and oldest airports, London's Heathrow which gave a lot of insights into operations and travel in and out of the airport. The site visits were observation visits on types of machines available, stakeholders' activity, and even booked a flight to Kochi to understand the insides of the airport. 
