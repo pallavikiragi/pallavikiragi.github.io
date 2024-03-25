@@ -1,18 +1,19 @@
 +++
 date = "2016-11-05T19:41:01+05:30"
-title = "New Media Design of Cyberculture in Airports"
+title = "New Media and Generative Design"
 draft = false
 image = "img/portfolio/pallavikiragi_finalimage_01_copy.png"
 showonlyimage = false
 weight = 1
 +++
 
-The project enlightens new media design, a universal interconnected network of audio, video, and electronic text communications as a context for airport operations and management with passengers and employees, forming a paradigm of cyberculture where each aspect facilitates digital networks and social shaping technologies.
+These projects delve into generative concepts that utilize computational processes to generate a range of design options, while also considering context. This methodology is employed to evaluate and explore variations and experimentations within the framework of new media design, which encompasses a universal interconnected network of audio, video, and electronic text communications. 
+
 <!--more-->
+### Cyberculture in Airports
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
-
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+This thesis introduced me to tools and technologies in the realm of new media and computational development, the influence of each subject New media, cyberculture, and airport stakeholders. 
+It served as a context for airport operations and management, involving passengers and employees, thereby forming a paradigm of cyberculture where each aspect facilitates digital networks and social shaping technologies. Some of the methods I followed were predominantly site visits and case studies, interviewing employees and passengers on their perspectives of travel and management. I also watched a documentary on one of the busiest and oldest airports, London's Heathrow which gave a lot of insights into operations and travel in and out of the airport. The site visits were observation visits on types of machines available, stakeholders' activity, and even booked a flight to Kochi to understand the insides of the airport. 
 
 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 2. Aliquam tincidunt mauris eu risus.
