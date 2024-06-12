@@ -35,4 +35,4 @@ When she reached the first hills of the Italic Mountains, she had a last view ba
 <!-- Image Grid using Markdown -->
 | ![Image 1](/static/img/about.jpg) | ![Image 2](/img/portfolio/levicvr.png) |
 |---------------------------------------|---------------------------------------|
-| ![Image 3](/img/portfolio/levicvr.png) | ![Image 4](/img/portfolio/levicvr.png) |
+| ![Image 3](/img/portfolio/a4-paper.jpg) | ![Image 4](/img/portfolio/chick.png) |
