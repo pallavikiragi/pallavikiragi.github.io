@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/covidcover.jpg"
+image = "./img/portfolio/covidcover.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "COVID Sound"
 weight = 0
