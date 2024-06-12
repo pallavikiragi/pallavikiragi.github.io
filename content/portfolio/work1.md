@@ -35,15 +35,15 @@ When she reached the first hills of the Italic Mountains, she had a last view ba
 <!-- Image Grid -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div style="flex: 1; min-width: 200px;">
-    <img src="img/portfolio/levicvr.png" alt="Image 1" style="width: 100%;">
+    <img src="/portfolio/levicvr.png" alt="Image 1" style="width: 100%;">
   </div>
   <div style="flex: 1; min-width: 200px;">
-    <img src="img/portfolio/image2.jpg" alt="Image 2" style="width: 100%;">
+    <img src="/portfolio/levicvr.png" alt="Image 2" style="width: 100%;">
   </div>
   <div style="flex: 1; min-width: 200px;">
-    <img src="img/portfolio/image3.jpg" alt="Image 3" style="width: 100%;">
+    <img src="/portfolio/levicvr.png" alt="Image 3" style="width: 100%;">
   </div>
   <div style="flex: 1; min-width: 200px;">
-    <img src="img/portfolio/image4.jpg" alt="Image 4" style="width: 100%;">
+    <img src="/portfolio/levicvr.png" alt="Image 4" style="width: 100%;">
   </div>
 </div>
