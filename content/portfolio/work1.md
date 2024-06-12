@@ -8,8 +8,7 @@ weight = 0
 +++
 
 Data Sonification of Active cases and Mortality rate across all territories in India since Covid's inception till March 2022 with the help of OSC and sound synthesis.
-
-![a test video](https://drive.google.com/file/d/1ekcyFgSmgtehrijYU92lNigbaqTi1FMU/view?usp=sharing)
+ 
 Check out [My new album INSIGHTS]( https://drive.google.com/file/d/1ekcyFgSmgtehrijYU92lNigbaqTi1FMU/view?usp=sharing).
  
 <!--more-->
