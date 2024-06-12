@@ -36,3 +36,8 @@ When she reached the first hills of the Italic Mountains, she had a last view ba
 | ![Image 1](/static/img/about.jpg) | ![Image 2](/img/portfolio/levicvr.png) |
 |---------------------------------------|---------------------------------------|
 | ![Image 3](/img/portfolio/levicvr.jpg) | ![Image 4](/img/portfolio/levicvr.png) |
+
+<!-- Embedded YouTube Video -->
+<div style="margin-top: 20px;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6JEBiIHY4Ds?si=d-vGAmy-AWbAuqTb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
