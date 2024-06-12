@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "./img/portfolio/covidcover.jpg"
+image = "img/portfolio/covidcover.jpg"
 date = "2016-11-05T18:25:22+05:30"
 title = "COVID Sound"
 weight = 0
@@ -35,7 +35,7 @@ When she reached the first hills of the Italic Mountains, she had a last view ba
 <!-- Image Grid -->
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div style="flex: 1; min-width: 200px;">
-    <img src="img/portfolio/image1.jpg" alt="Image 1" style="width: 100%;">
+    <img src="img/portfolio/levicvr.png" alt="Image 1" style="width: 100%;">
   </div>
   <div style="flex: 1; min-width: 200px;">
     <img src="img/portfolio/image2.jpg" alt="Image 2" style="width: 100%;">
