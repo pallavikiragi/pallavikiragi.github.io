@@ -20,7 +20,7 @@ It served as a context for airport operations and management, involving passenge
 
 Workflows 
 
- | ![Image 1](/static/img/about.jpg) | ![Image 2](/img/portfolio/levicvr.png) |
+ | ![Image 1](/static/img/portfolio/covidcover.jpg) | ![Image 2](/img/portfolio/levicvr.png) |
 |---------------------------------------|---------------------------------------|
 | ![Image 3](/img/portfolio/levicvr.png) | ![Image 4](/img/portfolio/levicvr.png) |
 
