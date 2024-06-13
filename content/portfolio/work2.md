@@ -20,11 +20,9 @@ It served as a context for airport operations and management, involving passenge
 
 Workflows 
 
- 
-
-| ![Image 1](static/img/portfolio/covidcover.jpg) | ![Image 2](/static/img/portfolio/gravity-paper.jpg) |
+ | ![Image 1](/static/img/about.jpg) | ![Image 2](/img/portfolio/levicvr.png) |
 |---------------------------------------|---------------------------------------|
-| ![Image 3](/static/img/portfolio/holo-collage.png) | ![Image 4](/static/img/portfolio/levicvr.png) |
+| ![Image 3](/img/portfolio/levicvr.png) | ![Image 4](/img/portfolio/levicvr.png) |
 
 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 2. Aliquam tincidunt mauris eu risus.
