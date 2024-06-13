@@ -20,9 +20,9 @@ It served as a context for airport operations and management, involving passenge
 
 Workflows 
 
-| ![Image 1]( https://github.com/pallavikiragi/pallavikiragi.github.io/blob/main/static/img/portfolio/covidcover.jpg) | ![Image 2](https://github.com/pallavikiragi/pallavikiragi.github.io/blob/main/static/img/gravity-paper.jpg) | ![Image 3](https://github.com/pallavikiragi/pallavikiragi.github.io/blob/main/static/img/holo collage.png) |
+| ![Image 1]( https://github.com/pallavikiragi/pallavikiragi.github.io/blob/main/static/img/portfolio/covidcover.jpg) | ![Image 2](https://github.com/pallavikiragi/pallavikiragi.github.io/blob/main/static/img/portfolio/gravity-paper.jpg) | ![Image 3](https://github.com/pallavikiragi/pallavikiragi.github.io/blob/main/static/img/portfolio/holo collage.png) |
 | --- | --- | --- |
-| ![Image 4](https://github.com/pallavikiragi/pallavikiragi.github.io/blob/main/static/img/levicvr.png) | ![Image 5](https://github.com/pallavikiragi/pallavikiragi.github.io/blob/main/static/img/chick.png) | ![Image 6](https://github.com/pallavikiragi/pallavikiragi.github.io/blob/main/static/img/ipad-air-2.jpg) |
+| ![Image 4](https://github.com/pallavikiragi/pallavikiragi.github.io/blob/main/static/img/portfolio/levicvr.png) | ![Image 5](https://github.com/pallavikiragi/pallavikiragi.github.io/blob/main/static/img/portfolio/chick.png) | ![Image 6](https://github.com/pallavikiragi/pallavikiragi.github.io/blob/main/static/img/portfolio/ipad-air-2.jpg) |
 
 
 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
