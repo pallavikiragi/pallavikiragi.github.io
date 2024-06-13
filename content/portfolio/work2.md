@@ -20,19 +20,13 @@ It served as a context for airport operations and management, involving passenge
 
 Workflows 
 
- | ![Image 1](/img/portfolio/covidcover.jpg) | ![Image 2](/img/portfolio/gravity-paper.jpg) | ![Image 3](/img/portfolio/holo-collage.png)  |
+ | ![Image 1](/img/portfolio/covidcover.jpg) | ![Image 2](/img/portfolio/gravity-paper.jpg) | ![Image 3](/img/portfolio/envelope-brand.jpg)  |
 |---------------------------------------|---------------------------------------|---------------------------------------|
  | ![Image 4](/img/portfolio/levicvr.png) | ![Image 5](/img/portfolio/chick.png) | ![Image 6](/img/portfolio/ipad-air-2.jpg) |
 
 
 
 
-
-
-
-| ![Image 1](/img/portfolio/covidcover.jpg) | ![Image 2](/img/portfolio/gravity-paper.jpg) | ![Image 3](/img/portfolio/holo-collage.png) |
-| --- | --- | --- |
-| ![Image 4](/img/portfolio/levicvr.png) | ![Image 5](/img/portfolio/chick.png) | ![Image 6](/img/portfolio/ipad-air-2.jpg) |
 
  
 
