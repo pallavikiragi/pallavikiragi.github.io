@@ -25,6 +25,10 @@ Workflows
 | ![Image 4](https://github.com/pallavikiragi/pallavikiragi.github.io/blob/main/static/img/portfolio/levicvr.png) | ![Image 5](https://github.com/pallavikiragi/pallavikiragi.github.io/blob/main/static/img/portfolio/chick.png) | ![Image 6](https://github.com/pallavikiragi/pallavikiragi.github.io/blob/main/static/img/portfolio/ipad-air-2.jpg) |
 
 
+| ![Image 1](/static/img/portfolio/covidcover.jpg) | ![Image 2](/static/img/portfolio/gravity-paper.jpg) |
+|---------------------------------------|---------------------------------------|
+| ![Image 3](/static/img/portfolio/holo-collage.png) | ![Image 4](/static/img/portfolio/levicvr.png) |
+
 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 2. Aliquam tincidunt mauris eu risus.
 
