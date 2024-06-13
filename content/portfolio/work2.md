@@ -5,7 +5,7 @@ draft = false
 image = "img/portfolio/newmedia.jpg"
 showonlyimage = false
 weight = 1
-+++
++++ 
 
 These projects delve into generative concepts that utilize computational processes to generate a range of design options, while also considering context. This methodology is employed to evaluate and explore variations and experimentations within the framework of new media design, which encompasses a universal interconnected network of audio, video, and electronic text communications. 
 
